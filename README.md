@@ -25,7 +25,8 @@ FSM pada robot ini terdiri dari dua state utama:
 2. TURN: Robot berbelok untuk menghindari rintangan
 
 ## Diagram Alur FSM
-<img width="236" height="372" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/863cc5d3-49d4-4b9e-8426-468cda52dee5" />
+<img width="371" height="200" alt="inih drawio" src="https://github.com/user-attachments/assets/e076e168-9281-413c-a53e-f3ca2906d5a6" />
+
 
 ## Teknologi & Tools yang Digunakan
 - Middleware	ROS 2 (Humble / Jazzy)
